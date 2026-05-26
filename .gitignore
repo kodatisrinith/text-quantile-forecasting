@@ -1,0 +1,10 @@
+*.dta
+*.pt
+*.parquet
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.env
+.DS_Store
+Thumbs.db
